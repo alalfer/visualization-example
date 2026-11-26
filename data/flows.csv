@@ -1,0 +1,401 @@
+origin,destination,trips,origin_name,destination_name,origin_lat,origin_lon,destination_lat,destination_lon
+MN0401,MN0401,896978,Chelsea-Hudson Yards,Chelsea-Hudson Yards,40.74981,-74.00701,40.74981,-74.00701
+MN0303,MN0303,635898,East Village,East Village,40.72566,-73.98081,40.72566,-73.98081
+BK0102,BK0102,635875,Williamsburg,Williamsburg,40.7151,-73.96288,40.7151,-73.96288
+MN0502,MN0502,399485,Midtown-Times Square,Midtown-Times Square,40.75851,-73.98143,40.75851,-73.98143
+BK0601,BK0601,325881,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.67563,-74.00924,40.67563,-74.00924
+MN0101,MN0101,322739,Financial District-Battery Park City,Financial District-Battery Park City,40.70597,-74.01142,40.70597,-74.01142
+MN0401,MN0501,307872,Chelsea-Hudson Yards,Midtown South-Flatiron-Union Square,40.74981,-74.00701,40.74289,-73.98973
+BK0101,BK0102,300857,Greenpoint,Williamsburg,40.73455,-73.94906,40.7151,-73.96288
+BK0102,BK0101,297364,Williamsburg,Greenpoint,40.7151,-73.96288,40.73455,-73.94906
+MN0501,MN0401,295616,Midtown South-Flatiron-Union Square,Chelsea-Hudson Yards,40.74289,-73.98973,40.74981,-74.00701
+BK0101,BK0101,260927,Greenpoint,Greenpoint,40.73455,-73.94906,40.73455,-73.94906
+MN0402,MN0402,259898,Hell's Kitchen,Hell's Kitchen,40.76641,-73.99642,40.76641,-73.99642
+MN0401,MN0203,254121,Chelsea-Hudson Yards,West Village,40.74981,-74.00701,40.73631,-74.00924
+MN0203,MN0401,250066,West Village,Chelsea-Hudson Yards,40.73631,-74.00924,40.74981,-74.00701
+MN0202,MN0303,246423,Greenwich Village,East Village,40.73,-73.99513,40.72566,-73.98081
+MN0402,MN0401,245987,Hell's Kitchen,Chelsea-Hudson Yards,40.76641,-73.99642,40.74981,-74.00701
+MN0303,MN0202,245512,East Village,Greenwich Village,40.72566,-73.98081,40.73,-73.99513
+MN0603,MN0603,242822,Murray Hill-Kips Bay,Murray Hill-Kips Bay,40.74186,-73.97262,40.74186,-73.97262
+MN0401,MN0402,237728,Chelsea-Hudson Yards,Hell's Kitchen,40.74981,-74.00701,40.76641,-73.99642
+MN0401,MN0502,227616,Chelsea-Hudson Yards,Midtown-Times Square,40.74981,-74.00701,40.75851,-73.98143
+MN0502,MN0402,227325,Midtown-Times Square,Hell's Kitchen,40.75851,-73.98143,40.76641,-73.99642
+BK0602,BK0602,223588,Park Slope,Park Slope,40.67317,-73.97739,40.67317,-73.97739
+MN0402,MN0502,222362,Hell's Kitchen,Midtown-Times Square,40.76641,-73.99642,40.75851,-73.98143
+MN0502,MN0401,219799,Midtown-Times Square,Chelsea-Hudson Yards,40.75851,-73.98143,40.74981,-74.00701
+MN0501,MN0501,211506,Midtown South-Flatiron-Union Square,Midtown South-Flatiron-Union Square,40.74289,-73.98973,40.74289,-73.98973
+QN0201,QN0201,201103,Long Island City-Hunters Point,Long Island City-Hunters Point,40.74285,-73.95445,40.74285,-73.95445
+MN0203,MN0203,198538,West Village,West Village,40.73631,-74.00924,40.73631,-74.00924
+MN0202,MN0202,197586,Greenwich Village,Greenwich Village,40.73,-73.99513,40.73,-73.99513
+MN0302,MN0302,193189,Lower East Side,Lower East Side,40.71612,-73.98264,40.71612,-73.98264
+BK0104,BK0102,189165,East Williamsburg,Williamsburg,40.71535,-73.93029,40.7151,-73.96288
+MN6491,MN6491,186472,Central Park,Central Park,40.78247,-73.96591,40.78247,-73.96591
+BK0102,BK0104,185145,Williamsburg,East Williamsburg,40.7151,-73.96288,40.71535,-73.93029
+MN0603,MN0501,183594,Murray Hill-Kips Bay,Midtown South-Flatiron-Union Square,40.74186,-73.97262,40.74289,-73.98973
+MN0501,MN0603,183374,Midtown South-Flatiron-Union Square,Murray Hill-Kips Bay,40.74289,-73.98973,40.74186,-73.97262
+BK0104,BK0104,183240,East Williamsburg,East Williamsburg,40.71535,-73.93029,40.71535,-73.93029
+BK0202,BK0202,182598,Downtown Brooklyn-DUMBO-Boerum Hill,Downtown Brooklyn-DUMBO-Boerum Hill,40.69806,-73.9862,40.69806,-73.9862
+MN0702,MN0702,181452,Upper West Side (Central),Upper West Side (Central),40.78696,-73.97986,40.78696,-73.97986
+MN0701,MN0701,176766,Upper West Side-Lincoln Square,Upper West Side-Lincoln Square,40.77515,-73.9884,40.77515,-73.9884
+MN0302,MN0303,171595,Lower East Side,East Village,40.71612,-73.98264,40.72566,-73.98081
+MN0303,MN0302,170461,East Village,Lower East Side,40.72566,-73.98081,40.71612,-73.98264
+MN0502,MN0501,170009,Midtown-Times Square,Midtown South-Flatiron-Union Square,40.75851,-73.98143,40.74289,-73.98973
+BK0203,BK0203,162940,Fort Greene,Fort Greene,40.69291,-73.97494,40.69291,-73.97494
+MN0801,MN0801,161589,Upper East Side-Lenox Hill-Roosevelt Island,Upper East Side-Lenox Hill-Roosevelt Island,40.76002,-73.95184,40.76002,-73.95184
+MN0101,MN0102,160759,Financial District-Battery Park City,Tribeca-Civic Center,40.70597,-74.01142,40.71633,-74.00757
+MN0501,MN0502,160327,Midtown South-Flatiron-Union Square,Midtown-Times Square,40.74289,-73.98973,40.75851,-73.98143
+MN0102,MN0102,157724,Tribeca-Civic Center,Tribeca-Civic Center,40.71633,-74.00757,40.71633,-74.00757
+MN0102,MN0101,150300,Tribeca-Civic Center,Financial District-Battery Park City,40.71633,-74.00757,40.70597,-74.01142
+QN0101,QN0101,145190,Astoria (North)-Ditmars-Steinway,Astoria (North)-Ditmars-Steinway,40.78181,-73.89562,40.78181,-73.89562
+BK0301,BK0301,142397,Bedford-Stuyvesant (West),Bedford-Stuyvesant (West),40.68978,-73.95058,40.68978,-73.95058
+MN0502,MN0603,140803,Midtown-Times Square,Murray Hill-Kips Bay,40.75851,-73.98143,40.74186,-73.97262
+MN0603,MN0502,140419,Murray Hill-Kips Bay,Midtown-Times Square,40.74186,-73.97262,40.75851,-73.98143
+MN0201,MN0201,130656,SoHo-Little Italy-Hudson Square,SoHo-Little Italy-Hudson Square,40.72408,-74.00432,40.72408,-74.00432
+MN0202,MN0401,130108,Greenwich Village,Chelsea-Hudson Yards,40.73,-73.99513,40.74981,-74.00701
+BK0202,BK0601,128968,Downtown Brooklyn-DUMBO-Boerum Hill,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.69806,-73.9862,40.67563,-74.00924
+MN0401,MN0603,128661,Chelsea-Hudson Yards,Murray Hill-Kips Bay,40.74981,-74.00701,40.74186,-73.97262
+BK0601,BK0202,127921,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Downtown Brooklyn-DUMBO-Boerum Hill,40.67563,-74.00924,40.69806,-73.9862
+MN0203,MN0202,127740,West Village,Greenwich Village,40.73631,-74.00924,40.73,-73.99513
+MN0604,MN0604,126742,East Midtown-Turtle Bay,East Midtown-Turtle Bay,40.75519,-73.9672,40.75519,-73.9672
+BK0302,BK0302,125986,Bedford-Stuyvesant (East),Bedford-Stuyvesant (East),40.68775,-73.93185,40.68775,-73.93185
+MN0501,MN0303,125506,Midtown South-Flatiron-Union Square,East Village,40.74289,-73.98973,40.72566,-73.98081
+MN0202,MN0203,125403,Greenwich Village,West Village,40.73,-73.99513,40.73631,-74.00924
+MN0603,MN0401,125197,Murray Hill-Kips Bay,Chelsea-Hudson Yards,40.74186,-73.97262,40.74981,-74.00701
+MN0303,MN0201,123599,East Village,SoHo-Little Italy-Hudson Square,40.72566,-73.98081,40.72408,-74.00432
+MN0603,MN0303,122384,Murray Hill-Kips Bay,East Village,40.74186,-73.97262,40.72566,-73.98081
+MN0303,MN0501,122164,East Village,Midtown South-Flatiron-Union Square,40.72566,-73.98081,40.74289,-73.98973
+MN0502,MN0604,121364,Midtown-Times Square,East Midtown-Turtle Bay,40.75851,-73.98143,40.75519,-73.9672
+MN0401,MN0202,121041,Chelsea-Hudson Yards,Greenwich Village,40.74981,-74.00701,40.73,-73.99513
+MN0604,MN0502,120657,East Midtown-Turtle Bay,Midtown-Times Square,40.75519,-73.9672,40.75851,-73.98143
+MN0201,MN0303,118971,SoHo-Little Italy-Hudson Square,East Village,40.72408,-74.00432,40.72566,-73.98081
+MN0203,MN0201,118551,West Village,SoHo-Little Italy-Hudson Square,40.73631,-74.00924,40.72408,-74.00432
+MN0702,MN0701,118032,Upper West Side (Central),Upper West Side-Lincoln Square,40.78696,-73.97986,40.77515,-73.9884
+BK0802,BK0802,117915,Crown Heights (North),Crown Heights (North),40.67417,-73.9386,40.67417,-73.9386
+MN0701,MN0502,117739,Upper West Side-Lincoln Square,Midtown-Times Square,40.77515,-73.9884,40.75851,-73.98143
+MN0401,MN0101,117447,Chelsea-Hudson Yards,Financial District-Battery Park City,40.74981,-74.00701,40.70597,-74.01142
+MN0301,MN0302,115526,Chinatown-Two Bridges,Lower East Side,40.71162,-73.99408,40.71612,-73.98264
+MN0302,MN0301,115325,Lower East Side,Chinatown-Two Bridges,40.71612,-73.98264,40.71162,-73.99408
+MN0101,MN0401,114315,Financial District-Battery Park City,Chelsea-Hudson Yards,40.70597,-74.01142,40.74981,-74.00701
+MN0303,MN0603,114142,East Village,Murray Hill-Kips Bay,40.72566,-73.98081,40.74186,-73.97262
+MN0201,MN0203,113953,SoHo-Little Italy-Hudson Square,West Village,40.72408,-74.00432,40.73631,-74.00924
+MN0502,MN0701,113396,Midtown-Times Square,Upper West Side-Lincoln Square,40.75851,-73.98143,40.77515,-73.9884
+MN0701,MN0702,113334,Upper West Side-Lincoln Square,Upper West Side (Central),40.77515,-73.9884,40.78696,-73.97986
+MN0303,MN0401,111718,East Village,Chelsea-Hudson Yards,40.72566,-73.98081,40.74981,-74.00701
+MN0501,MN0202,110997,Midtown South-Flatiron-Union Square,Greenwich Village,40.74289,-73.98973,40.73,-73.99513
+MN0203,MN0303,108792,West Village,East Village,40.73631,-74.00924,40.72566,-73.98081
+MN0201,MN0401,108585,SoHo-Little Italy-Hudson Square,Chelsea-Hudson Yards,40.72408,-74.00432,40.74981,-74.00701
+MN0301,MN0301,108376,Chinatown-Two Bridges,Chinatown-Two Bridges,40.71162,-73.99408,40.71162,-73.99408
+BK0601,BK0602,107920,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Park Slope,40.67563,-74.00924,40.67317,-73.97739
+BK0602,BK0601,106622,Park Slope,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.67317,-73.97739,40.67563,-74.00924
+MN0401,MN0303,106219,Chelsea-Hudson Yards,East Village,40.74981,-74.00701,40.72566,-73.98081
+MN0303,MN0203,105954,East Village,West Village,40.72566,-73.98081,40.73631,-74.00924
+BK0401,BK0401,104568,Bushwick (West),Bushwick (West),40.70063,-73.92677,40.70063,-73.92677
+MN0201,MN0101,104544,SoHo-Little Italy-Hudson Square,Financial District-Battery Park City,40.72408,-74.00432,40.70597,-74.01142
+MN0201,MN0202,103511,SoHo-Little Italy-Hudson Square,Greenwich Village,40.72408,-74.00432,40.73,-73.99513
+MN0101,MN0201,103479,Financial District-Battery Park City,SoHo-Little Italy-Hudson Square,40.70597,-74.01142,40.72408,-74.00432
+MN0603,MN0604,102735,Murray Hill-Kips Bay,East Midtown-Turtle Bay,40.74186,-73.97262,40.75519,-73.9672
+MN0401,MN0201,102729,Chelsea-Hudson Yards,SoHo-Little Italy-Hudson Square,40.74981,-74.00701,40.72408,-74.00432
+MN0604,MN0603,101619,East Midtown-Turtle Bay,Murray Hill-Kips Bay,40.75519,-73.9672,40.74186,-73.97262
+MN0202,MN0201,100701,Greenwich Village,SoHo-Little Italy-Hudson Square,40.73,-73.99513,40.72408,-74.00432
+MN0202,MN0501,99983,Greenwich Village,Midtown South-Flatiron-Union Square,40.73,-73.99513,40.74289,-73.98973
+BK0203,BK0202,99525,Fort Greene,Downtown Brooklyn-DUMBO-Boerum Hill,40.69291,-73.97494,40.69806,-73.9862
+MN0803,MN0803,98550,Upper East Side-Yorkville,Upper East Side-Yorkville,40.77812,-73.94526,40.77812,-73.94526
+QN0104,QN0104,97502,Astoria (East)-Woodside (North),Astoria (East)-Woodside (North),40.76002,-73.90533,40.76002,-73.90533
+QN0301,QN0301,96674,Jackson Heights,Jackson Heights,40.75737,-73.89012,40.75737,-73.89012
+BK0202,BK0203,95738,Downtown Brooklyn-DUMBO-Boerum Hill,Fort Greene,40.69806,-73.9862,40.69291,-73.97494
+MN0701,MN0402,95299,Upper West Side-Lincoln Square,Hell's Kitchen,40.77515,-73.9884,40.76641,-73.99642
+MN1102,MN1102,94486,East Harlem (North),East Harlem (North),40.80528,-73.93492,40.80528,-73.93492
+BK0101,QN0201,94266,Greenpoint,Long Island City-Hunters Point,40.73455,-73.94906,40.74285,-73.95445
+MN6491,MN0502,94052,Central Park,Midtown-Times Square,40.78247,-73.96591,40.75851,-73.98143
+MN0101,MN0203,94026,Financial District-Battery Park City,West Village,40.70597,-74.01142,40.73631,-74.00924
+MN0203,MN0101,92734,West Village,Financial District-Battery Park City,40.73631,-74.00924,40.70597,-74.01142
+BK0601,BK0201,92471,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn Heights,40.67563,-74.00924,40.69658,-73.99467
+MN0502,MN6491,92029,Midtown-Times Square,Central Park,40.75851,-73.98143,40.78247,-73.96591
+QN0201,BK0101,91767,Long Island City-Hunters Point,Greenpoint,40.74285,-73.95445,40.73455,-73.94906
+BK0201,BK0601,91096,Brooklyn Heights,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.69658,-73.99467,40.67563,-74.00924
+MN0402,MN0701,90458,Hell's Kitchen,Upper West Side-Lincoln Square,40.76641,-73.99642,40.77515,-73.9884
+MN0802,MN0802,89573,Upper East Side-Carnegie Hill,Upper East Side-Carnegie Hill,40.77546,-73.96053,40.77546,-73.96053
+MN0501,MN0203,89181,Midtown South-Flatiron-Union Square,West Village,40.74289,-73.98973,40.73631,-74.00924
+MN0701,MN0401,89054,Upper West Side-Lincoln Square,Chelsea-Hudson Yards,40.77515,-73.9884,40.74981,-74.00701
+MN0102,MN0201,88941,Tribeca-Civic Center,SoHo-Little Italy-Hudson Square,40.71633,-74.00757,40.72408,-74.00432
+MN0203,MN0501,87603,West Village,Midtown South-Flatiron-Union Square,40.73631,-74.00924,40.74289,-73.98973
+QN0502,QN0502,86229,Ridgewood,Ridgewood,40.7047,-73.90416,40.7047,-73.90416
+MN0401,MN0701,85918,Chelsea-Hudson Yards,Upper West Side-Lincoln Square,40.74981,-74.00701,40.77515,-73.9884
+QN0103,QN0103,84767,Astoria (Central),Astoria (Central),40.76577,-73.92375,40.76577,-73.92375
+BK0402,BK0402,84389,Bushwick (East),Bushwick (East),40.69043,-73.91231,40.69043,-73.91231
+MN1001,MN1001,83819,Harlem (South),Harlem (South),40.80366,-73.9513,40.80366,-73.9513
+MN1002,MN1002,83678,Harlem (North),Harlem (North),40.82717,-73.93688,40.82717,-73.93688
+MN0303,MN0301,82055,East Village,Chinatown-Two Bridges,40.72566,-73.98081,40.71162,-73.99408
+MN0801,MN0604,82052,Upper East Side-Lenox Hill-Roosevelt Island,East Midtown-Turtle Bay,40.76002,-73.95184,40.75519,-73.9672
+MN0201,MN0302,80973,SoHo-Little Italy-Hudson Square,Lower East Side,40.72408,-74.00432,40.71612,-73.98264
+MN0201,MN0102,80072,SoHo-Little Italy-Hudson Square,Tribeca-Civic Center,40.72408,-74.00432,40.71633,-74.00757
+MN0301,MN0303,79905,Chinatown-Two Bridges,East Village,40.71162,-73.99408,40.72566,-73.98081
+MN0301,MN0101,79880,Chinatown-Two Bridges,Financial District-Battery Park City,40.71162,-73.99408,40.70597,-74.01142
+BK0201,BK0202,79659,Brooklyn Heights,Downtown Brooklyn-DUMBO-Boerum Hill,40.69658,-73.99467,40.69806,-73.9862
+BK0202,BK0201,79498,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn Heights,40.69806,-73.9862,40.69658,-73.99467
+MN0101,MN0301,78741,Financial District-Battery Park City,Chinatown-Two Bridges,40.70597,-74.01142,40.71162,-73.99408
+BK0104,BK0101,78377,East Williamsburg,Greenpoint,40.71535,-73.93029,40.73455,-73.94906
+MN0604,MN0801,78161,East Midtown-Turtle Bay,Upper East Side-Lenox Hill-Roosevelt Island,40.75519,-73.9672,40.76002,-73.95184
+QN0202,QN0202,77423,Sunnyside,Sunnyside,40.73709,-73.93339,40.73709,-73.93339
+BK0902,BK0902,77157,Prospect Lefferts Gardens-Wingate,Prospect Lefferts Gardens-Wingate,40.65992,-73.94763,40.65992,-73.94763
+MN0602,MN0303,75974,Gramercy,East Village,40.73642,-73.98394,40.72566,-73.98081
+BK0201,BK0201,75211,Brooklyn Heights,Brooklyn Heights,40.69658,-73.99467,40.69658,-73.99467
+MN0803,MN0801,75069,Upper East Side-Yorkville,Upper East Side-Lenox Hill-Roosevelt Island,40.77812,-73.94526,40.76002,-73.95184
+MN0302,MN0201,75051,Lower East Side,SoHo-Little Italy-Hudson Square,40.71612,-73.98264,40.72408,-74.00432
+MN0302,BK0102,74275,Lower East Side,Williamsburg,40.71612,-73.98264,40.7151,-73.96288
+BK0101,BK0104,73506,Greenpoint,East Williamsburg,40.73455,-73.94906,40.71535,-73.93029
+MN0703,MN0702,71990,Upper West Side-Manhattan Valley,Upper West Side (Central),40.80036,-73.96923,40.78696,-73.97986
+BK0102,MN0302,71528,Williamsburg,Lower East Side,40.7151,-73.96288,40.71612,-73.98264
+MN0801,MN0802,71194,Upper East Side-Lenox Hill-Roosevelt Island,Upper East Side-Carnegie Hill,40.76002,-73.95184,40.77546,-73.96053
+BK0302,BK0301,71064,Bedford-Stuyvesant (East),Bedford-Stuyvesant (West),40.68775,-73.93185,40.68978,-73.95058
+MN0801,MN0803,70971,Upper East Side-Lenox Hill-Roosevelt Island,Upper East Side-Yorkville,40.76002,-73.95184,40.77812,-73.94526
+MN0401,MN0102,70933,Chelsea-Hudson Yards,Tribeca-Civic Center,40.74981,-74.00701,40.71633,-74.00757
+MN0501,MN0602,70275,Midtown South-Flatiron-Union Square,Gramercy,40.74289,-73.98973,40.73642,-73.98394
+MN0602,MN0501,70033,Gramercy,Midtown South-Flatiron-Union Square,40.73642,-73.98394,40.74289,-73.98973
+MN0402,MN0501,69668,Hell's Kitchen,Midtown South-Flatiron-Union Square,40.76641,-73.99642,40.74289,-73.98973
+MN0102,MN0401,69156,Tribeca-Civic Center,Chelsea-Hudson Yards,40.71633,-74.00757,40.74981,-74.00701
+MN0603,MN0602,68997,Murray Hill-Kips Bay,Gramercy,40.74186,-73.97262,40.73642,-73.98394
+MN0702,MN0703,68930,Upper West Side (Central),Upper West Side-Manhattan Valley,40.78696,-73.97986,40.80036,-73.96923
+MN0203,MN0102,68667,West Village,Tribeca-Civic Center,40.73631,-74.00924,40.71633,-74.00757
+BK5591,BK5591,68589,Prospect Park,Prospect Park,40.66098,-73.97191,40.66098,-73.97191
+QN0105,QN0105,68470,Queensbridge-Ravenswood-Dutch Kills,Queensbridge-Ravenswood-Dutch Kills,40.75929,-73.93751,40.75929,-73.93751
+MN0501,MN0402,67947,Midtown South-Flatiron-Union Square,Hell's Kitchen,40.74289,-73.98973,40.76641,-73.99642
+BK0301,BK0302,67536,Bedford-Stuyvesant (West),Bedford-Stuyvesant (East),40.68978,-73.95058,40.68775,-73.93185
+BK0602,BK0801,67360,Park Slope,Prospect Heights,40.67317,-73.97739,40.67627,-73.9677
+BK0801,BK0602,67072,Prospect Heights,Park Slope,40.67627,-73.9677,40.67317,-73.97739
+BK0602,BK5591,66996,Park Slope,Prospect Park,40.67317,-73.97739,40.66098,-73.97191
+MN0602,MN0401,65952,Gramercy,Chelsea-Hudson Yards,40.73642,-73.98394,40.74981,-74.00701
+MN0502,MN0802,65580,Midtown-Times Square,Upper East Side-Carnegie Hill,40.75851,-73.98143,40.77546,-73.96053
+MN0702,MN0502,65350,Upper West Side (Central),Midtown-Times Square,40.78696,-73.97986,40.75851,-73.98143
+MN0303,MN0601,65071,East Village,Stuyvesant Town-Peter Cooper Village,40.72566,-73.98081,40.73167,-73.97437
+MN0102,MN0203,64522,Tribeca-Civic Center,West Village,40.71633,-74.00757,40.73631,-74.00924
+MN0303,MN0602,64095,East Village,Gramercy,40.72566,-73.98081,40.73642,-73.98394
+MN0802,MN0801,63686,Upper East Side-Carnegie Hill,Upper East Side-Lenox Hill-Roosevelt Island,40.77546,-73.96053,40.76002,-73.95184
+MN0802,MN0502,63378,Upper East Side-Carnegie Hill,Midtown-Times Square,40.77546,-73.96053,40.75851,-73.98143
+MN0202,MN0302,63301,Greenwich Village,Lower East Side,40.73,-73.99513,40.71612,-73.98264
+BK0401,BK0104,62299,Bushwick (West),East Williamsburg,40.70063,-73.92677,40.71535,-73.93029
+MN0401,MN0602,62182,Chelsea-Hudson Yards,Gramercy,40.74981,-74.00701,40.73642,-73.98394
+BK5591,BK0602,62000,Prospect Park,Park Slope,40.66098,-73.97191,40.67317,-73.97739
+BK0104,BK0401,60129,East Williamsburg,Bushwick (West),40.71535,-73.93029,40.70063,-73.92677
+MN0303,MN0101,59948,East Village,Financial District-Battery Park City,40.72566,-73.98081,40.70597,-74.01142
+BK0802,BK0301,59772,Crown Heights (North),Bedford-Stuyvesant (West),40.67417,-73.9386,40.68978,-73.95058
+MN0302,MN0101,59677,Lower East Side,Financial District-Battery Park City,40.71612,-73.98264,40.70597,-74.01142
+MN0302,MN0202,59522,Lower East Side,Greenwich Village,40.71612,-73.98264,40.73,-73.99513
+MN0101,MN0302,58479,Financial District-Battery Park City,Lower East Side,40.70597,-74.01142,40.71612,-73.98264
+MN0601,MN0603,58327,Stuyvesant Town-Peter Cooper Village,Murray Hill-Kips Bay,40.73167,-73.97437,40.74186,-73.97262
+MN0703,MN0703,58239,Upper West Side-Manhattan Valley,Upper West Side-Manhattan Valley,40.80036,-73.96923,40.80036,-73.96923
+BK0702,BK0702,58175,Sunset Park (West),Sunset Park (West),40.65568,-74.01208,40.65568,-74.01208
+MN0501,MN0201,57845,Midtown South-Flatiron-Union Square,SoHo-Little Italy-Hudson Square,40.74289,-73.98973,40.72408,-74.00432
+MN0502,MN0801,57314,Midtown-Times Square,Upper East Side-Lenox Hill-Roosevelt Island,40.75851,-73.98143,40.76002,-73.95184
+MN0502,MN0702,57129,Midtown-Times Square,Upper West Side (Central),40.75851,-73.98143,40.78696,-73.97986
+MN0801,MN0502,56839,Upper East Side-Lenox Hill-Roosevelt Island,Midtown-Times Square,40.76002,-73.95184,40.75851,-73.98143
+BK0203,BK0204,56257,Fort Greene,Clinton Hill,40.69291,-73.97494,40.69084,-73.96361
+BK0204,BK0203,56069,Clinton Hill,Fort Greene,40.69084,-73.96361,40.69291,-73.97494
+BK0301,BK0802,55867,Bedford-Stuyvesant (West),Crown Heights (North),40.68978,-73.95058,40.67417,-73.9386
+QN0401,QN0401,55855,Elmhurst,Elmhurst,40.73759,-73.88071,40.73759,-73.88071
+MN0601,MN0303,55767,Stuyvesant Town-Peter Cooper Village,East Village,40.73167,-73.97437,40.72566,-73.98081
+MN0602,MN0603,55732,Gramercy,Murray Hill-Kips Bay,40.73642,-73.98394,40.74186,-73.97262
+MN0201,MN0501,55641,SoHo-Little Italy-Hudson Square,Midtown South-Flatiron-Union Square,40.72408,-74.00432,40.74289,-73.98973
+MN0101,MN0303,55562,Financial District-Battery Park City,East Village,40.70597,-74.01142,40.72566,-73.98081
+MN0802,MN0803,53762,Upper East Side-Carnegie Hill,Upper East Side-Yorkville,40.77546,-73.96053,40.77812,-73.94526
+MN0603,MN0202,53526,Murray Hill-Kips Bay,Greenwich Village,40.74186,-73.97262,40.73,-73.99513
+MN1101,MN1101,53454,East Harlem (South),East Harlem (South),40.78816,-73.94238,40.78816,-73.94238
+BK0801,BK0801,53090,Prospect Heights,Prospect Heights,40.67627,-73.9677,40.67627,-73.9677
+BX0101,BX0101,52670,Mott Haven-Port Morris,Mott Haven-Port Morris,40.80547,-73.91403,40.80547,-73.91403
+MN0202,MN0603,52100,Greenwich Village,Murray Hill-Kips Bay,40.73,-73.99513,40.74186,-73.97262
+BK0402,BK0401,52079,Bushwick (East),Bushwick (West),40.69043,-73.91231,40.70063,-73.92677
+MN6491,MN0702,51987,Central Park,Upper West Side (Central),40.78247,-73.96591,40.78696,-73.97986
+BK0203,BK0301,51704,Fort Greene,Bedford-Stuyvesant (West),40.69291,-73.97494,40.68978,-73.95058
+MN1102,MN1001,51053,East Harlem (North),Harlem (South),40.80528,-73.93492,40.80366,-73.9513
+MN1001,MN1102,50628,Harlem (South),East Harlem (North),40.80366,-73.9513,40.80528,-73.93492
+QN0104,QN0103,50498,Astoria (East)-Woodside (North),Astoria (Central),40.76002,-73.90533,40.76577,-73.92375
+BK0401,BK0402,50461,Bushwick (West),Bushwick (East),40.70063,-73.92677,40.69043,-73.91231
+BK0301,BK0203,50308,Bedford-Stuyvesant (West),Fort Greene,40.68978,-73.95058,40.69291,-73.97494
+MN0803,MN0802,50005,Upper East Side-Yorkville,Upper East Side-Carnegie Hill,40.77812,-73.94526,40.77546,-73.96053
+QN0103,QN0104,49851,Astoria (Central),Astoria (East)-Woodside (North),40.76577,-73.92375,40.76002,-73.90533
+QN0502,BK0401,49612,Ridgewood,Bushwick (West),40.7047,-73.90416,40.70063,-73.92677
+BK0401,QN0502,49158,Bushwick (West),Ridgewood,40.70063,-73.92677,40.7047,-73.90416
+BK0802,BK0801,48358,Crown Heights (North),Prospect Heights,40.67417,-73.9386,40.67627,-73.9677
+MN0604,MN0501,47954,East Midtown-Turtle Bay,Midtown South-Flatiron-Union Square,40.75519,-73.9672,40.74289,-73.98973
+BX0401,BX0401,47821,Concourse-Concourse Village,Concourse-Concourse Village,40.82581,-73.92276,40.82581,-73.92276
+MN0201,MN0301,47636,SoHo-Little Italy-Hudson Square,Chinatown-Two Bridges,40.72408,-74.00432,40.71162,-73.99408
+BK0301,BK0102,47357,Bedford-Stuyvesant (West),Williamsburg,40.68978,-73.95058,40.7151,-73.96288
+BK0102,MN0303,47254,Williamsburg,East Village,40.7151,-73.96288,40.72566,-73.98081
+MN6491,MN0701,47145,Central Park,Upper West Side-Lincoln Square,40.78247,-73.96591,40.77515,-73.9884
+BK0801,BK0802,46908,Prospect Heights,Crown Heights (North),40.67627,-73.9677,40.67417,-73.9386
+MN0602,MN0602,46565,Gramercy,Gramercy,40.73642,-73.98394,40.73642,-73.98394
+MN0502,MN0203,46537,Midtown-Times Square,West Village,40.75851,-73.98143,40.73631,-74.00924
+MN0702,MN6491,46331,Upper West Side (Central),Central Park,40.78696,-73.97986,40.78247,-73.96591
+MN0303,MN0102,46256,East Village,Tribeca-Civic Center,40.72566,-73.98081,40.71633,-74.00757
+MN0102,MN0202,46037,Tribeca-Civic Center,Greenwich Village,40.71633,-74.00757,40.73,-73.99513
+MN0301,MN0201,45998,Chinatown-Two Bridges,SoHo-Little Italy-Hudson Square,40.71162,-73.99408,40.72408,-74.00432
+MN0602,MN0202,45739,Gramercy,Greenwich Village,40.73642,-73.98394,40.73,-73.99513
+MN0502,MN0303,45652,Midtown-Times Square,East Village,40.75851,-73.98143,40.72566,-73.98081
+MN0301,MN0102,45402,Chinatown-Two Bridges,Tribeca-Civic Center,40.71162,-73.99408,40.71633,-74.00757
+BK0102,MN0201,45392,Williamsburg,SoHo-Little Italy-Hudson Square,40.7151,-73.96288,40.72408,-74.00432
+QN0203,QN0203,45027,Woodside,Woodside,40.74232,-73.90049,40.74232,-73.90049
+MN0201,BK0102,44591,SoHo-Little Italy-Hudson Square,Williamsburg,40.72408,-74.00432,40.7151,-73.96288
+MN0402,MN0603,44196,Hell's Kitchen,Murray Hill-Kips Bay,40.76641,-73.99642,40.74186,-73.97262
+MN0102,MN0303,44111,Tribeca-Civic Center,East Village,40.71633,-74.00757,40.72566,-73.98081
+MN0102,MN0301,44092,Tribeca-Civic Center,Chinatown-Two Bridges,40.71633,-74.00757,40.71162,-73.99408
+MN0603,MN0402,44060,Murray Hill-Kips Bay,Hell's Kitchen,40.74186,-73.97262,40.76641,-73.99642
+MN0402,MN0203,44035,Hell's Kitchen,West Village,40.76641,-73.99642,40.73631,-74.00924
+MN1001,MN1002,44001,Harlem (South),Harlem (North),40.80366,-73.9513,40.82717,-73.93688
+MN0702,MN0401,43994,Upper West Side (Central),Chelsea-Hudson Yards,40.78696,-73.97986,40.74981,-74.00701
+MN0701,MN6491,43924,Upper West Side-Lincoln Square,Central Park,40.77515,-73.9884,40.78247,-73.96591
+BK0102,BK0301,43868,Williamsburg,Bedford-Stuyvesant (West),40.7151,-73.96288,40.68978,-73.95058
+MN0303,MN0502,43867,East Village,Midtown-Times Square,40.72566,-73.98081,40.75851,-73.98143
+MN0202,MN0602,43710,Greenwich Village,Gramercy,40.73,-73.99513,40.73642,-73.98394
+BK0602,BK0203,43665,Park Slope,Fort Greene,40.67317,-73.97739,40.69291,-73.97494
+MN0901,MN0901,43293,Morningside Heights,Morningside Heights,40.80997,-73.96304,40.80997,-73.96304
+MN0402,MN0604,42966,Hell's Kitchen,East Midtown-Turtle Bay,40.76641,-73.99642,40.75519,-73.9672
+MN1002,MN1001,42938,Harlem (North),Harlem (South),40.82717,-73.93688,40.80366,-73.9513
+MN6491,MN0802,42691,Central Park,Upper East Side-Carnegie Hill,40.78247,-73.96591,40.77546,-73.96053
+MN0604,MN0402,42468,East Midtown-Turtle Bay,Hell's Kitchen,40.75519,-73.9672,40.76641,-73.99642
+MN0802,MN6491,42460,Upper East Side-Carnegie Hill,Central Park,40.77546,-73.96053,40.78247,-73.96591
+MN0401,MN0702,42425,Chelsea-Hudson Yards,Upper West Side (Central),40.74981,-74.00701,40.78696,-73.97986
+BK0802,BK0602,41807,Crown Heights (North),Park Slope,40.67417,-73.9386,40.67317,-73.97739
+MN0202,MN0102,41786,Greenwich Village,Tribeca-Civic Center,40.73,-73.99513,40.71633,-74.00757
+MN0303,BK0102,41781,East Village,Williamsburg,40.72566,-73.98081,40.7151,-73.96288
+BK0901,BK0901,41708,Crown Heights (South),Crown Heights (South),40.66678,-73.94684,40.66678,-73.94684
+MN0203,MN0502,41471,West Village,Midtown-Times Square,40.73631,-74.00924,40.75851,-73.98143
+MN0604,MN0401,41374,East Midtown-Turtle Bay,Chelsea-Hudson Yards,40.75519,-73.9672,40.74981,-74.00701
+BK0202,BK0602,41330,Downtown Brooklyn-DUMBO-Boerum Hill,Park Slope,40.69806,-73.9862,40.67317,-73.97739
+BK0602,BK0202,41311,Park Slope,Downtown Brooklyn-DUMBO-Boerum Hill,40.67317,-73.97739,40.69806,-73.9862
+MN0401,MN0604,41271,Chelsea-Hudson Yards,East Midtown-Turtle Bay,40.74981,-74.00701,40.75519,-73.9672
+MN0102,MN0302,41191,Tribeca-Civic Center,Lower East Side,40.71633,-74.00757,40.71612,-73.98264
+QN0103,QN0105,41069,Astoria (Central),Queensbridge-Ravenswood-Dutch Kills,40.76577,-73.92375,40.75929,-73.93751
+MN1101,MN0803,41043,East Harlem (South),Upper East Side-Yorkville,40.78816,-73.94238,40.77812,-73.94526
+BK0202,BK0102,40712,Downtown Brooklyn-DUMBO-Boerum Hill,Williamsburg,40.69806,-73.9862,40.7151,-73.96288
+BK0203,BK0102,40708,Fort Greene,Williamsburg,40.69291,-73.97494,40.7151,-73.96288
+MN0603,MN0601,40613,Murray Hill-Kips Bay,Stuyvesant Town-Peter Cooper Village,40.74186,-73.97262,40.73167,-73.97437
+QN0105,QN0201,40498,Queensbridge-Ravenswood-Dutch Kills,Long Island City-Hunters Point,40.75929,-73.93751,40.74285,-73.95445
+MN0803,MN1101,40416,Upper East Side-Yorkville,East Harlem (South),40.77812,-73.94526,40.78816,-73.94238
+QN0105,QN0103,40208,Queensbridge-Ravenswood-Dutch Kills,Astoria (Central),40.75929,-73.93751,40.76577,-73.92375
+MN0501,MN0604,40142,Midtown South-Flatiron-Union Square,East Midtown-Turtle Bay,40.74289,-73.98973,40.75519,-73.9672
+BK0401,BK0102,40077,Bushwick (West),Williamsburg,40.70063,-73.92677,40.7151,-73.96288
+MN0801,MN0603,39884,Upper East Side-Lenox Hill-Roosevelt Island,Murray Hill-Kips Bay,40.76002,-73.95184,40.74186,-73.97262
+BK0102,BK0202,39854,Williamsburg,Downtown Brooklyn-DUMBO-Boerum Hill,40.7151,-73.96288,40.69806,-73.9862
+MN0202,MN0101,39780,Greenwich Village,Financial District-Battery Park City,40.73,-73.99513,40.70597,-74.01142
+MN0603,MN0801,39562,Murray Hill-Kips Bay,Upper East Side-Lenox Hill-Roosevelt Island,40.74186,-73.97262,40.76002,-73.95184
+QN0201,QN0105,39546,Long Island City-Hunters Point,Queensbridge-Ravenswood-Dutch Kills,40.74285,-73.95445,40.75929,-73.93751
+MN0501,MN0601,39493,Midtown South-Flatiron-Union Square,Stuyvesant Town-Peter Cooper Village,40.74289,-73.98973,40.73167,-73.97437
+MN0101,MN0202,39446,Financial District-Battery Park City,Greenwich Village,40.70597,-74.01142,40.73,-73.99513
+BK0102,BK0203,39204,Williamsburg,Fort Greene,40.7151,-73.96288,40.69291,-73.97494
+BK0203,BK0602,39187,Fort Greene,Park Slope,40.69291,-73.97494,40.67317,-73.97739
+MN0601,MN0501,38875,Stuyvesant Town-Peter Cooper Village,Midtown South-Flatiron-Union Square,40.73167,-73.97437,40.74289,-73.98973
+MN0302,MN0102,38556,Lower East Side,Tribeca-Civic Center,40.71612,-73.98264,40.71633,-74.00757
+BK0901,BK0802,38474,Crown Heights (South),Crown Heights (North),40.66678,-73.94684,40.67417,-73.9386
+MN0502,MN0202,37929,Midtown-Times Square,Greenwich Village,40.75851,-73.98143,40.73,-73.99513
+BK0602,BK0802,37688,Park Slope,Crown Heights (North),40.67317,-73.97739,40.67417,-73.9386
+MN1102,MN1101,37583,East Harlem (North),East Harlem (South),40.80528,-73.93492,40.78816,-73.94238
+QN0103,QN0102,37458,Astoria (Central),Old Astoria-Hallets Point,40.76577,-73.92375,40.77269,-73.93186
+BK0203,BK0601,37195,Fort Greene,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.69291,-73.97494,40.67563,-74.00924
+MN1202,MN1202,37013,Washington Heights (North),Washington Heights (North),40.85753,-73.93683,40.85753,-73.93683
+BK0102,BK0401,36978,Williamsburg,Bushwick (West),40.7151,-73.96288,40.70063,-73.92677
+BK0802,BK0901,36753,Crown Heights (North),Crown Heights (South),40.67417,-73.9386,40.66678,-73.94684
+MN1101,MN1102,36640,East Harlem (South),East Harlem (North),40.78816,-73.94238,40.80528,-73.93492
+MN0203,MN0402,36353,West Village,Hell's Kitchen,40.73631,-74.00924,40.76641,-73.99642
+MN0604,MN0303,35815,East Midtown-Turtle Bay,East Village,40.75519,-73.9672,40.72566,-73.98081
+BK0601,BK0203,35676,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Fort Greene,40.67563,-74.00924,40.69291,-73.97494
+MN0702,MN0402,35593,Upper West Side (Central),Hell's Kitchen,40.78696,-73.97986,40.76641,-73.99642
+MN0202,MN0502,35499,Greenwich Village,Midtown-Times Square,40.73,-73.99513,40.75851,-73.98143
+QN0102,QN0103,35490,Old Astoria-Hallets Point,Astoria (Central),40.77269,-73.93186,40.76577,-73.92375
+MN0802,MN0701,35486,Upper East Side-Carnegie Hill,Upper West Side-Lincoln Square,40.77546,-73.96053,40.77515,-73.9884
+MN0402,MN0702,35233,Hell's Kitchen,Upper West Side (Central),40.76641,-73.99642,40.78696,-73.97986
+MN0303,MN0604,35216,East Village,East Midtown-Turtle Bay,40.72566,-73.98081,40.75519,-73.9672
+QN0103,QN0101,35098,Astoria (Central),Astoria (North)-Ditmars-Steinway,40.76577,-73.92375,40.78181,-73.89562
+BK0801,BK0203,34854,Prospect Heights,Fort Greene,40.67627,-73.9677,40.69291,-73.97494
+QN0101,QN0103,34851,Astoria (North)-Ditmars-Steinway,Astoria (Central),40.78181,-73.89562,40.76577,-73.92375
+MN0702,MN0802,34827,Upper West Side (Central),Upper East Side-Carnegie Hill,40.78696,-73.97986,40.77546,-73.96053
+BK0302,BK0401,34627,Bedford-Stuyvesant (East),Bushwick (West),40.68775,-73.93185,40.70063,-73.92677
+MN1201,MN1201,34396,Washington Heights (South),Washington Heights (South),40.84236,-73.94331,40.84236,-73.94331
+QN0502,BK0402,34148,Ridgewood,Bushwick (East),40.7047,-73.90416,40.69043,-73.91231
+BK0401,BK0302,34091,Bushwick (West),Bedford-Stuyvesant (East),40.70063,-73.92677,40.68775,-73.93185
+MN0501,MN0302,33700,Midtown South-Flatiron-Union Square,Lower East Side,40.74289,-73.98973,40.71612,-73.98264
+QN0301,QN0401,33647,Jackson Heights,Elmhurst,40.75737,-73.89012,40.73759,-73.88071
+MN0701,MN0802,33642,Upper West Side-Lincoln Square,Upper East Side-Carnegie Hill,40.77515,-73.9884,40.77546,-73.96053
+MN0203,MN0302,33619,West Village,Lower East Side,40.73631,-74.00924,40.71612,-73.98264
+MN0603,MN0302,33415,Murray Hill-Kips Bay,Lower East Side,40.74186,-73.97262,40.71612,-73.98264
+MN1002,MN1102,33364,Harlem (North),East Harlem (North),40.82717,-73.93688,40.80528,-73.93492
+MN0802,MN0702,33288,Upper East Side-Carnegie Hill,Upper West Side (Central),40.77546,-73.96053,40.78696,-73.97986
+QN0401,QN0301,33261,Elmhurst,Jackson Heights,40.73759,-73.88071,40.75737,-73.89012
+BK0204,BK0301,33113,Clinton Hill,Bedford-Stuyvesant (West),40.69084,-73.96361,40.68978,-73.95058
+MN0302,MN0401,33106,Lower East Side,Chelsea-Hudson Yards,40.71612,-73.98264,40.74981,-74.00701
+MN0603,MN0203,33046,Murray Hill-Kips Bay,West Village,40.74186,-73.97262,40.73631,-74.00924
+BK0301,BK0204,32932,Bedford-Stuyvesant (West),Clinton Hill,40.68978,-73.95058,40.69084,-73.96361
+MN0604,MN0802,32862,East Midtown-Turtle Bay,Upper East Side-Carnegie Hill,40.75519,-73.9672,40.77546,-73.96053
+BK0402,QN0502,32765,Bushwick (East),Ridgewood,40.69043,-73.91231,40.7047,-73.90416
+QN0104,QN0101,32762,Astoria (East)-Woodside (North),Astoria (North)-Ditmars-Steinway,40.76002,-73.90533,40.78181,-73.89562
+BK0801,BK0601,32505,Prospect Heights,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,40.67627,-73.9677,40.67563,-74.00924
+MN0203,MN0603,31991,West Village,Murray Hill-Kips Bay,40.73631,-74.00924,40.74186,-73.97262
+MN0802,MN0604,31844,Upper East Side-Carnegie Hill,East Midtown-Turtle Bay,40.77546,-73.96053,40.75519,-73.9672
+MN0302,MN0603,31755,Lower East Side,Murray Hill-Kips Bay,40.71612,-73.98264,40.74186,-73.97262
+QN0101,QN0104,31732,Astoria (North)-Ditmars-Steinway,Astoria (East)-Woodside (North),40.78181,-73.89562,40.76002,-73.90533
+MN0401,MN0302,31681,Chelsea-Hudson Yards,Lower East Side,40.74981,-74.00701,40.71612,-73.98264
+MN1102,MN1002,31660,East Harlem (North),Harlem (North),40.80528,-73.93492,40.82717,-73.93688
+BK0203,BK0801,31350,Fort Greene,Prospect Heights,40.69291,-73.97494,40.67627,-73.9677
+MN0703,MN0901,31252,Upper West Side-Manhattan Valley,Morningside Heights,40.80036,-73.96923,40.80997,-73.96304
+MN0901,MN0703,31161,Morningside Heights,Upper West Side-Manhattan Valley,40.80997,-73.96304,40.80036,-73.96923
+MN0302,MN0501,31127,Lower East Side,Midtown South-Flatiron-Union Square,40.71612,-73.98264,40.74289,-73.98973
+BK0802,BK0302,30992,Crown Heights (North),Bedford-Stuyvesant (East),40.67417,-73.9386,40.68775,-73.93185
+MN0803,MN0604,30698,Upper East Side-Yorkville,East Midtown-Turtle Bay,40.77812,-73.94526,40.75519,-73.9672
+MN6491,MN0703,30672,Central Park,Upper West Side-Manhattan Valley,40.78247,-73.96591,40.80036,-73.96923
+MN0202,MN0301,30341,Greenwich Village,Chinatown-Two Bridges,40.73,-73.99513,40.71162,-73.99408
+MN0601,MN0601,30322,Stuyvesant Town-Peter Cooper Village,Stuyvesant Town-Peter Cooper Village,40.73167,-73.97437,40.73167,-73.97437
+MN0302,MN0203,30252,Lower East Side,West Village,40.71612,-73.98264,40.73631,-74.00924
+BK0601,BK0801,30093,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Prospect Heights,40.67563,-74.00924,40.67627,-73.9677
+MN6491,MN0801,29990,Central Park,Upper East Side-Lenox Hill-Roosevelt Island,40.78247,-73.96591,40.76002,-73.95184
+MN0202,MN0601,29690,Greenwich Village,Stuyvesant Town-Peter Cooper Village,40.73,-73.99513,40.73167,-73.97437
+MN0801,MN0701,29580,Upper East Side-Lenox Hill-Roosevelt Island,Upper West Side-Lincoln Square,40.76002,-73.95184,40.77515,-73.9884
+MN0301,MN0202,29442,Chinatown-Two Bridges,Greenwich Village,40.71162,-73.99408,40.73,-73.99513
+BK0202,BK0204,29433,Downtown Brooklyn-DUMBO-Boerum Hill,Clinton Hill,40.69806,-73.9862,40.69084,-73.96361
+MN0801,MN6491,29360,Upper East Side-Lenox Hill-Roosevelt Island,Central Park,40.76002,-73.95184,40.78247,-73.96591
+BX0102,BX0102,29340,Melrose,Melrose,40.81964,-73.91335,40.81964,-73.91335
+MN0701,MN0801,29336,Upper West Side-Lincoln Square,Upper East Side-Lenox Hill-Roosevelt Island,40.77515,-73.9884,40.76002,-73.95184
+MN1001,MN0703,29276,Harlem (South),Upper West Side-Manhattan Valley,40.80366,-73.9513,40.80036,-73.96923
+BK0204,BK0202,28976,Clinton Hill,Downtown Brooklyn-DUMBO-Boerum Hill,40.69084,-73.96361,40.69806,-73.9862
+MN0701,MN0604,28904,Upper West Side-Lincoln Square,East Midtown-Turtle Bay,40.77515,-73.9884,40.75519,-73.9672
+BK0302,BK0802,28744,Bedford-Stuyvesant (East),Crown Heights (North),40.68775,-73.93185,40.67417,-73.9386
+MN0901,MN0702,28696,Morningside Heights,Upper West Side (Central),40.80997,-73.96304,40.78696,-73.97986
+BK0701,BK0701,28508,Windsor Terrace-South Slope,Windsor Terrace-South Slope,40.65573,-73.97821,40.65573,-73.97821
+MN0903,MN0903,28493,Hamilton Heights-Sugar Hill,Hamilton Heights-Sugar Hill,40.82845,-73.94997,40.82845,-73.94997
+MN0603,MN0201,28468,Murray Hill-Kips Bay,SoHo-Little Italy-Hudson Square,40.74186,-73.97262,40.72408,-74.00432
+MN0501,MN0101,28230,Midtown South-Flatiron-Union Square,Financial District-Battery Park City,40.74289,-73.98973,40.70597,-74.01142
+MN0703,MN1001,28192,Upper West Side-Manhattan Valley,Harlem (South),40.80036,-73.96923,40.80366,-73.9513
+BK0301,BK0401,28080,Bedford-Stuyvesant (West),Bushwick (West),40.68978,-73.95058,40.70063,-73.92677
+BK0301,BK0104,28063,Bedford-Stuyvesant (West),East Williamsburg,40.68978,-73.95058,40.71535,-73.93029
+MN0102,BK0202,28047,Tribeca-Civic Center,Downtown Brooklyn-DUMBO-Boerum Hill,40.71633,-74.00757,40.69806,-73.9862
+BK0702,BK0602,27928,Sunset Park (West),Park Slope,40.65568,-74.01208,40.67317,-73.97739
+MN0502,MN0602,27920,Midtown-Times Square,Gramercy,40.75851,-73.98143,40.73642,-73.98394
+MN0702,MN0901,27890,Upper West Side (Central),Morningside Heights,40.78696,-73.97986,40.80997,-73.96304
+BK0602,BK0701,27868,Park Slope,Windsor Terrace-South Slope,40.67317,-73.97739,40.65573,-73.97821
+BK0301,BK0801,27851,Bedford-Stuyvesant (West),Prospect Heights,40.68978,-73.95058,40.67627,-73.9677
+BK0301,BK0202,27688,Bedford-Stuyvesant (West),Downtown Brooklyn-DUMBO-Boerum Hill,40.68978,-73.95058,40.69806,-73.9862
+BK0701,BK0602,27638,Windsor Terrace-South Slope,Park Slope,40.65573,-73.97821,40.67317,-73.97739
+BK0102,MN0301,27588,Williamsburg,Chinatown-Two Bridges,40.7151,-73.96288,40.71162,-73.99408
+MN0402,MN6491,27550,Hell's Kitchen,Central Park,40.76641,-73.99642,40.78247,-73.96591
+BK0401,BK0301,27494,Bushwick (West),Bedford-Stuyvesant (West),40.70063,-73.92677,40.68978,-73.95058
+BK0202,MN0102,27432,Downtown Brooklyn-DUMBO-Boerum Hill,Tribeca-Civic Center,40.69806,-73.9862,40.71633,-74.00757
+BK0104,BK0301,27396,East Williamsburg,Bedford-Stuyvesant (West),40.71535,-73.93029,40.68978,-73.95058
+MN0604,MN0803,27315,East Midtown-Turtle Bay,Upper East Side-Yorkville,40.75519,-73.9672,40.77812,-73.94526
+BK0202,BK0301,27255,Downtown Brooklyn-DUMBO-Boerum Hill,Bedford-Stuyvesant (West),40.69806,-73.9862,40.68978,-73.95058
+MN0402,MN0101,27248,Hell's Kitchen,Financial District-Battery Park City,40.76641,-73.99642,40.70597,-74.01142
+MN0602,MN0502,26980,Gramercy,Midtown-Times Square,40.73642,-73.98394,40.75851,-73.98143
+BK0602,BK0702,26614,Park Slope,Sunset Park (West),40.67317,-73.97739,40.65568,-74.01208
+BK0801,BK0301,26347,Prospect Heights,Bedford-Stuyvesant (West),40.67627,-73.9677,40.68978,-73.95058
+MN0601,MN0602,26346,Stuyvesant Town-Peter Cooper Village,Gramercy,40.73167,-73.97437,40.73642,-73.98394
+MN0502,MN0803,26296,Midtown-Times Square,Upper East Side-Yorkville,40.75851,-73.98143,40.77812,-73.94526
+MN0702,MN0801,26160,Upper West Side (Central),Upper East Side-Lenox Hill-Roosevelt Island,40.78696,-73.97986,40.76002,-73.95184
+MN0703,MN0701,26152,Upper West Side-Manhattan Valley,Upper West Side-Lincoln Square,40.80036,-73.96923,40.77515,-73.9884
+MN0301,BK0102,26147,Chinatown-Two Bridges,Williamsburg,40.71162,-73.99408,40.7151,-73.96288
+MN0201,MN0603,26047,SoHo-Little Italy-Hudson Square,Murray Hill-Kips Bay,40.72408,-74.00432,40.74186,-73.97262
+MN0401,MN0601,25968,Chelsea-Hudson Yards,Stuyvesant Town-Peter Cooper Village,40.74981,-74.00701,40.73167,-73.97437
+BK0302,BK0102,25930,Bedford-Stuyvesant (East),Williamsburg,40.68775,-73.93185,40.7151,-73.96288
+MN0101,MN0501,25887,Financial District-Battery Park City,Midtown South-Flatiron-Union Square,40.70597,-74.01142,40.74289,-73.98973
+MN0101,MN0402,25832,Financial District-Battery Park City,Hell's Kitchen,40.70597,-74.01142,40.76641,-73.99642
+QN0201,BK0102,25666,Long Island City-Hunters Point,Williamsburg,40.74285,-73.95445,40.7151,-73.96288
+MN0101,BK0202,25593,Financial District-Battery Park City,Downtown Brooklyn-DUMBO-Boerum Hill,40.70597,-74.01142,40.69806,-73.9862
+MN1001,MN0901,25478,Harlem (South),Morningside Heights,40.80366,-73.9513,40.80997,-73.96304
+MN0601,MN0401,25234,Stuyvesant Town-Peter Cooper Village,Chelsea-Hudson Yards,40.73167,-73.97437,40.74981,-74.00701
+BK0801,BK0202,25109,Prospect Heights,Downtown Brooklyn-DUMBO-Boerum Hill,40.67627,-73.9677,40.69806,-73.9862
